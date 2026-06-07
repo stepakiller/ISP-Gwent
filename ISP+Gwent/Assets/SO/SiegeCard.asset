@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e759aa0c0a50194ab6ed4644eb30b49, type: 3}
+  m_Name: SiegeCard
+  m_EditorClassIdentifier: Assembly-CSharp::SiegeCardSO
+  CardName: "\u041A\u0430\u0442\u0430\u043F\u0443\u043B\u044C\u0442\u0430"
+  Icon: {fileID: 21300000, guid: b829bb4ed36c5fd459c82e5911e6baf6, type: 3}
+  Description: 
+  power: 8
